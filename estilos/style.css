@@ -14,3 +14,28 @@ main {
     padding: 10px;
     box-shadow: 3px 3px 5px rgba(0, 0, 0, 0.438);
 }
+
+h1 {
+    font-size: 2cm;
+    color: rgb(139, 3, 3);
+}
+
+h2 {
+    font-size: 1.5cm;
+    color: hsl(139, 3, 3);
+}
+
+img.lado {
+    float: right;
+}
+
+a {
+    text-decoration: none;
+    font-weight: bold;
+    color: aliceblue;
+}
+
+a:hover {
+    text-decoration: underline;
+    color: blue;
+}
